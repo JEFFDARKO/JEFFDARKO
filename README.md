@@ -49,8 +49,8 @@ control the sizes of some of my stat and widgets-->
 Let's code, connect, and create awesome things together  
 Feel free to browse my projects and maybe leave a ⭐ if you like what you see!
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 100px;">
-  <img src="https://streak-stats.demolab.com/?user=JEFFDARKO&theme=dark&hide_border=true" width="400" height="220" />
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://streak-stats.demolab.com/?user=JEFFDARKO&theme=dark&hide_border=true" width="400" height="220" style="margin-right: 40px;" />
   <img src="https://github-readme-stats.vercel.app/api?username=JEFFDARKO&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" width="400" height="220" />
 </div>
 

@@ -28,7 +28,5 @@ Not much of the media type, but you can find me here: [Linkdln](www.linkedin.com
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)  
 
 Let's code, connect, and create awesome things together
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JEFFDARKO&theme=radical&hide_border=true)  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=dark)
-[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20Me%20a%20Coffee&emoji=❤️&slug=JEFFDARKO&color=000000)](https://www.buymeacoffee.com/JEFFDARKO)
 
 Feel free to browse my projects and maybe leave a ⭐ if you like what you see!

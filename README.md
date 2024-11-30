@@ -1,6 +1,12 @@
 # 🎖️ Hey, I'm Weirdo - The Code-Obsessed Oddity 🎖️  
 
-![Fellow Weirdos](https://custom-icon-badges.demolab.com/badge/Fellow%20Weirdos-12.64k-blue?style=for-the-badge&logo=groups)![Total Stars](https://custom-icon-badges.demolab.com/badge/⭐%20Total%20Stars-13.34M-yellow?style=for-the-badge&logo=star) ![Weirdness Level](https://custom-icon-badges.demolab.com/badge/Weirdness%20Level-2.3B-blue?style=for-the-badge)
+<!-- couldn't center using markdown so I modified the 
+.markdownlint.yaml config to allow in-line html-->
+<p align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/Fellow%20Weirdos-12.64k-blue?style=for-the-badge&logo=groups" />
+  <img src="https://custom-icon-badges.demolab.com/badge/⭐%20Total%20Stars-13.34M-yellow?style=for-the-badge&logo=star" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Weirdness%20Level-2.3B-blue?style=for-the-badge" />
+</p>
 
 **Yep!, my name is Weirdo 🤪**, and I'm here too prove that being a little   _weird_ is actually pretty awesome 🚀. I am a robotics 🤖 geeks, I like write ✍️ a lot during my leisure time, and I have been known to have deep philosophical conversations with my computer when it refuses to cooperate 💻🤯. I am all about embracing the weirdness and making it work.
 
@@ -20,7 +26,16 @@ Let’s embrace the weirdness together, shall we? 🤪
 
 From Python spells to Kubernetes chaos, I wield tools like a mad scientist on a caffein high - building, breaking, and bending tech at my will 🪄. Meet my pals ⤴️:
 <!-- Decided to add a few badges -->
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 ## Let's connect
 

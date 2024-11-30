@@ -1,3 +1,9 @@
+<!-- couldn't center using markdown so I modified the 
+.markdownlint.yaml config to allow in-line html-->
+<p align="center">
+  <img src="./image.webp" width="150" height="150" />
+</p>
+
 # 🎖️ Hey, I'm Weirdo - The Code-Obsessed Oddity 🎖️  
 
 <!-- couldn't center using markdown so I modified the 
@@ -8,7 +14,8 @@
   <img src="https://custom-icon-badges.demolab.com/badge/Weirdness%20Level-2.3B-blue?style=for-the-badge" />
 </p>
 
-**Yep!, my name is Weirdo 🤪**, and I'm here too prove that being a little _weird_ is actually pretty awesome 🚀. I am a robotics 🤖 geeks, I like write ✍️ a lot during my leisure time, and I have been known to have deep philosophical conversations with my computer when it refuses to cooperate 💻🤯. I am all about embracing the weirdness and making it work.
+**Yep!, my name is Weirdo 🤪**, and I'm here too prove that being a little
+_weird_ is actually pretty awesome 🚀. I am a robotics 🤖 geeks, I like write ✍️ a lot during my leisure time, and I have been known to have deep philosophical conversations with my computer when it refuses to cooperate 💻🤯. I am all about embracing the weirdness and making it work.
 
 <!-- h2 header would be too big for me that's why I opted for 5#s -->
 ##### Here are a few things that make me weirdly awesome

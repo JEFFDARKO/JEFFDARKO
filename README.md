@@ -30,8 +30,8 @@ Not much of the media type, but you can find me here: [Linkdln](www.linkedin.com
 <!-- Modified my .markdownlint.yaml config file so I can add in-line html to
 control the sizes of some of my stat and widgets-->
 Let's code, connect, and create awesome things together
+Feel free to browse my projects and maybe leave a ⭐ if you like what you see!
+
 <img src="https://streak-stats.demolab.com/?user=JEFFDARKO&theme=dark&hide_border=true" width="350" height="230" /> <a href="https://www.buymeacoffee.com/vinitshahdeo" target="_blank">
 <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20Me%20a%20Coffee&emoji=&slug=vinitshahdeo" width="1500" height="50" />
 </a>
-
-Feel free to browse my projects and maybe leave a ⭐ if you like what you see!

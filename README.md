@@ -8,7 +8,7 @@
   <img src="https://custom-icon-badges.demolab.com/badge/Weirdness%20Level-2.3B-blue?style=for-the-badge" />
 </p>
 
-**Yep!, my name is Weirdo 🤪**, and I'm here too prove that being a little   _weird_ is actually pretty awesome 🚀. I am a robotics 🤖 geeks, I like write ✍️ a lot during my leisure time, and I have been known to have deep philosophical conversations with my computer when it refuses to cooperate 💻🤯. I am all about embracing the weirdness and making it work.
+**Yep!, my name is Weirdo 🤪**, and I'm here too prove that being a little _weird_ is actually pretty awesome 🚀. I am a robotics 🤖 geeks, I like write ✍️ a lot during my leisure time, and I have been known to have deep philosophical conversations with my computer when it refuses to cooperate 💻🤯. I am all about embracing the weirdness and making it work.
 
 <!-- h2 header would be too big for me that's why I opted for 5#s -->
 ##### Here are a few things that make me weirdly awesome
@@ -49,10 +49,13 @@ control the sizes of some of my stat and widgets-->
 Let's code, connect, and create awesome things together  
 Feel free to browse my projects and maybe leave a ⭐ if you like what you see!
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://streak-stats.demolab.com/?user=JEFFDARKO&theme=dark&hide_border=true" width="400" height="220" style="margin-right: 40px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=JEFFDARKO&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" width="400" height="220" />
-</div>
+<table style="border: 3px solid black; border-collapse: collapse;">
+  <tr>
+    <td style="border: 3px solid black;"><img src="https://streak-stats.demolab.com/?user=JEFFDARKO&theme=dark&hide_border=true" width="400" height="220" /></td>
+    <td style="border: 3px solid black;"><img src="https://github-readme-stats.vercel.app/api?username=JEFFDARKO&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" width="400" height="220" /></td>
+  </tr>
+</table>
+</table>
 
 <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20Me%20a%20Coffee&emoji=&slug=vinitshahdeo" width="1500" height="50" />
 </a>

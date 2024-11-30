@@ -1,6 +1,6 @@
 # 🎖️ Hey, I'm Weirdo - The Code-Obsessed Oddity 🎖️  
 
-![Fellow Weirdos](https://custom-icon-badges.demolab.com/badge/Fellow%20Weirdos-12.64k-blue?style=for-the-badge&logo=groups) ![Total Stars](https://custom-icon-badges.demolab.com/badge/⭐%20Total%20Stars-13.34M-yellow?style=for-the-badge&logo=star) ![Weirdness Level](https://custom-icon-badges.demolab.com/badge/Weirdness%20Level-2.3B-blue?style=for-the-badge)
+![Fellow Weirdos](https://custom-icon-badges.demolab.com/badge/Fellow%20Weirdos-12.64k-blue?style=for-the-badge&logo=groups)![Total Stars](https://custom-icon-badges.demolab.com/badge/⭐%20Total%20Stars-13.34M-yellow?style=for-the-badge&logo=star) ![Weirdness Level](https://custom-icon-badges.demolab.com/badge/Weirdness%20Level-2.3B-blue?style=for-the-badge)
 
 **Yep!, my name is Weirdo 🤪**, and I'm here too prove that being a little   _weird_ is actually pretty awesome 🚀. I am a robotics 🤖 geeks, I like write ✍️ a lot during my leisure time, and I have been known to have deep philosophical conversations with my computer when it refuses to cooperate 💻🤯. I am all about embracing the weirdness and making it work.
 
@@ -29,5 +29,7 @@ Not much of the media type, but you can find me here: [Linkdln](www.linkedin.com
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)  
 
 Let's code, connect, and create awesome things together
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=JEFFDARKO&theme=dark)
 
 Feel free to browse my projects and maybe leave a ⭐ if you like what you see!

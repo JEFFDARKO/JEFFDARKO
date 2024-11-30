@@ -23,10 +23,9 @@ From Python spells to Kubernetes chaos, I wield tools like a mad scientist on a 
 
 ## Let's connect
 
-Not much of the media type, but you can find me here: [Linkdln](www.linkedin.com/in/jeffery-offei-darko-8440222b3)
+Not much of the media type, but you can find me here: [Linkdln](www.linkedin.com/in/jeffery-offei-darko-8440222b3)  
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)  
 
 Let's code, connect, and create awesome things together
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JEFFDARKO&theme=radical&hide_border=true)  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=dark)
 
 Feel free to browse my projects and maybe leave a ⭐ if you like what you see!

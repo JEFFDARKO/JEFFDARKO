@@ -1,7 +1,7 @@
 <!-- couldn't center using markdown so I modified the 
 .markdownlint.yaml config to allow in-line html-->
 <p align="center">
-  <img src="./image.webp" width="150" height="150" />
+  <img src="./image.webp" alt=image width="150" height="150" />
 </p>
 
 # 🎖️ Hey, I'm Weirdo - The Code-Obsessed Oddity 🎖️  

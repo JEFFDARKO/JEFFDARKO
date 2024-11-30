@@ -47,6 +47,10 @@ control the sizes of some of my stat and widgets-->
 Let's code, connect, and create awesome things together  
 Feel free to browse my projects and maybe leave a ⭐ if you like what you see!
 
-<img src="https://streak-stats.demolab.com/?user=JEFFDARKO&theme=dark&hide_border=true" width="350" height="230" /> <a href="https://www.buymeacoffee.com/vinitshahdeo" target="_blank">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://streak-stats.demolab.com/?user=JEFFDARKO&theme=dark&hide_border=true" width="400" height="220" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JEFFDARKO&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" width="500" height="250" />
+</div>
+
 <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20Me%20a%20Coffee&emoji=&slug=vinitshahdeo" width="1500" height="50" />
 </a>

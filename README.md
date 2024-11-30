@@ -30,6 +30,6 @@ Not much of the media type, but you can find me here: [Linkdln](www.linkedin.com
 
 Let's code, connect, and create awesome things together
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=JEFFDARKO&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=JEFFDARKO&theme=dark&hide_border=true&width=70&height=70)
 
 Feel free to browse my projects and maybe leave a ⭐ if you like what you see!

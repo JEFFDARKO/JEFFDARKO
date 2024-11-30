@@ -29,7 +29,7 @@ Not much of the media type, but you can find me here: [Linkdln](www.linkedin.com
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)  
 <!-- Modified my .markdownlint.yaml config file so I can add in-line html to
 control the sizes of some of my stat and widgets-->
-Let's code, connect, and create awesome things together
+Let's code, connect, and create awesome things together  
 Feel free to browse my projects and maybe leave a ⭐ if you like what you see!
 
 <img src="https://streak-stats.demolab.com/?user=JEFFDARKO&theme=dark&hide_border=true" width="350" height="230" /> <a href="https://www.buymeacoffee.com/vinitshahdeo" target="_blank">

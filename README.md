@@ -26,6 +26,8 @@ Let’s embrace the weirdness together, shall we? 🤪
 
 From Python spells to Kubernetes chaos, I wield tools like a mad scientist on a caffein high - building, breaking, and bending tech at my will 🪄. Meet my pals ⤴️:
 <!-- Decided to add a few badges -->
+<!-- Modified my .markdownlint.yaml config file so I can add in-line html to
+control the sizes of some of my stat and widgets-->
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
@@ -47,9 +49,9 @@ control the sizes of some of my stat and widgets-->
 Let's code, connect, and create awesome things together  
 Feel free to browse my projects and maybe leave a ⭐ if you like what you see!
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 100px;">
   <img src="https://streak-stats.demolab.com/?user=JEFFDARKO&theme=dark&hide_border=true" width="400" height="220" />
-  <img src="https://github-readme-stats.vercel.app/api?username=JEFFDARKO&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" width="500" height="250" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JEFFDARKO&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" width="400" height="220" />
 </div>
 
 <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20Me%20a%20Coffee&emoji=&slug=vinitshahdeo" width="1500" height="50" />

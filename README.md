@@ -1,5 +1,5 @@
-<!-- couldn't center using markdown so I modified the 
-.markdownlint.yaml config to allow in-line html-->
+<!-- I wanted to maintain the flow of my paragraphs so I updated the .markdownlint.yaml config file to allow a line length extension to 300-->
+<!-- couldn't center using markdown so I modified the .markdownlint.yaml config to allow in-line html-->
 <p align="center">
   <img src="./extras/image.webp" alt=image width="150" height="150" />
 </p>

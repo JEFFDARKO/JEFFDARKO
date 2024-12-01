@@ -59,7 +59,7 @@ Feel free to browse my projects and maybe leave a ⭐ if you like what you see!
 <table style="border: 3px solid black; border-collapse: collapse;">
   <tr>
     <td style="border: 3px solid black;"><img src="https://streak-stats.demolab.com/?user=JEFFDARKO&theme=dark&hide_border=true" width="400" height="220" alt=/></td>
-    <td style="border: 3px solid black;"><img src="https://github-readme-stats.vercel.app/api?username=JEFFDARKO&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" width="400" height="220" /></td>
+    <td style="border: 3px solid black;"><img src="https://github-readme-stats.vercel.app/api?username=JEFFDARKO&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" width="400" height="220" alt=/></td>
   </tr>
 </table>
 </table>

@@ -6,8 +6,7 @@
 
 # 🎖️ Hey, I'm Weirdo - The Code-Obsessed Oddity 🎖️  
 
-<!-- couldn't center using markdown so I modified the 
-.markdownlint.yaml config to allow in-line html-->
+<!-- couldn't center using markdown so I modified the .markdownlint.yaml config to allow in-line html-->
 <p align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/Fellow%20Weirdos-12.64k-blue?style=for-the-badge&logo=groups" alt=visitors />
   <img src="https://custom-icon-badges.demolab.com/badge/⭐%20Total%20Stars-13.34M-yellow?style=for-the-badge&logo=star" alt=stars />
@@ -33,8 +32,7 @@ Let’s embrace the weirdness together, shall we? 🤪
 
 From Python spells to Kubernetes chaos, I wield tools like a mad scientist on a caffein high - building, breaking, and bending tech at my will 🪄. Meet my pals ⤴️:
 <!-- Decided to add a few badges -->
-<!-- Modified my .markdownlint.yaml config file so I can add in-line html to
-control the sizes of some of my stat and widgets-->
+<!-- Modified my .markdownlint.yaml config file so I can add in-line html to control the sizes of some of my stat and widgets-->
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt=python/>
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt=arduino/>
@@ -51,8 +49,7 @@ control the sizes of some of my stat and widgets-->
 Not much of the media type, but you can find me here: [Linkdln](extras/in/jeffery-offei-darko-8440222b3)
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)  
-<!-- Modified my .markdownlint.yaml config file so I can add in-line html to
-control the sizes of some of my stat and widgets-->
+<!-- Modified my .markdownlint.yaml config file so I can add in-line html to control the sizes of some of my stat and widgets-->
 Let's code, connect, and create awesome things together  
 Feel free to browse my projects and maybe leave a ⭐ if you like what you see!
 

@@ -66,3 +66,5 @@ Feel free to browse my projects and maybe leave a ⭐ if you like what you see!
 
 <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20Me%20a%20Coffee&emoji=&slug=vinitshahdeo" width="1500" height="50" />
 </a>
+
+![Achievements](https://github-profile-trophy.vercel.app/?username=JEFFDARKO&theme=gruvbox)

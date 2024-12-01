@@ -9,9 +9,9 @@
 <!-- couldn't center using markdown so I modified the 
 .markdownlint.yaml config to allow in-line html-->
 <p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/Fellow%20Weirdos-12.64k-blue?style=for-the-badge&logo=groups" />
-  <img src="https://custom-icon-badges.demolab.com/badge/⭐%20Total%20Stars-13.34M-yellow?style=for-the-badge&logo=star" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Weirdness%20Level-2.3B-blue?style=for-the-badge" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Fellow%20Weirdos-12.64k-blue?style=for-the-badge&logo=groups" alt=visitors />
+  <img src="https://custom-icon-badges.demolab.com/badge/⭐%20Total%20Stars-13.34M-yellow?style=for-the-badge&logo=star" alt=stars />
+  <img src="https://custom-icon-badges.demolab.com/badge/Weirdness%20Level-2.3B-blue?style=for-the-badge" alt=weirdo/>
 </p>
 
 **Yep!, my name is Weirdo 🤪**, and I'm here too prove that being a little
@@ -36,19 +36,19 @@ From Python spells to Kubernetes chaos, I wield tools like a mad scientist on a 
 <!-- Modified my .markdownlint.yaml config file so I can add in-line html to
 control the sizes of some of my stat and widgets-->
 <p align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt=python/>
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt=arduino/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt=github/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt=git/>
+  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt=nginx/>
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt=kr8/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt=docker/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt=linux/>
 </p>
 
 ## Let's connect
 
-Not much of the media type, but you can find me here: [Linkdln](www.linkedin.com/in/jeffery-offei-darko-8440222b3)
+Not much of the media type, but you can find me here: [Linkdln](extras/in/jeffery-offei-darko-8440222b3)
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)  
 <!-- Modified my .markdownlint.yaml config file so I can add in-line html to
@@ -58,13 +58,13 @@ Feel free to browse my projects and maybe leave a ⭐ if you like what you see!
 
 <table style="border: 3px solid black; border-collapse: collapse;">
   <tr>
-    <td style="border: 3px solid black;"><img src="https://streak-stats.demolab.com/?user=JEFFDARKO&theme=dark&hide_border=true" width="400" height="220" /></td>
+    <td style="border: 3px solid black;"><img src="https://streak-stats.demolab.com/?user=JEFFDARKO&theme=dark&hide_border=true" width="400" height="220" alt=/></td>
     <td style="border: 3px solid black;"><img src="https://github-readme-stats.vercel.app/api?username=JEFFDARKO&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" width="400" height="220" /></td>
   </tr>
 </table>
 </table>
 
-<img src="https://img.buymeacoffee.com/button-api/?text=Buy%20Me%20a%20Coffee&emoji=&slug=vinitshahdeo" width="1500" height="50" />
+<img src="<https://img.buymeacoffee.com/button-api/?text=Buy%20Me%20a%20Coffee&emoji=&slug=vinitshahdeo"alt=coffee> width="1500" height="50" />
 </a>
 
 ![Achievements](https://github-profile-trophy.vercel.app/?username=JEFFDARKO&theme=gruvbox)

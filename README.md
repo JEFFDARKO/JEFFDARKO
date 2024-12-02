@@ -56,13 +56,14 @@ Feel free to browse my projects and maybe leave a ⭐ if you like what you see!
 <table style="border: 3px solid black; border-collapse: collapse;">
   <tr>
     <td style="border: 3px solid black;">
-      <img src="https://streak-stats.demolab.com/?user=JEFFDARKO&theme=dark&hide_border=true&count_private=true" width="400" height="220" alt="Streak Stats" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=JEFFDARKO&theme=react-dark" width="400" height="220" alt="Activity Graph" />
     </td>
     <td style="border: 3px solid black;">
       <img src="https://github-readme-stats.vercel.app/api?username=JEFFDARKO&show_icons=true&theme=radical&count_private=true&hide_title=true&hide=prs" width="400" height="220" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
+
 <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20Me%20a%20Coffee&emoji=&slug=vinitshahdeo" alt="coffee" width="1500" height="50" />
 
 ![Achievements](https://github-profile-trophy.vercel.app/?username=JEFFDARKO&theme=gruvbox)

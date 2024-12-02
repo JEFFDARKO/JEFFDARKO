@@ -53,12 +53,15 @@ Not much of the media type, but you can find me here: [Linkdln](extras/in/jeffer
 Let's code, connect, and create awesome things together  
 Feel free to browse my projects and maybe leave a ⭐ if you like what you see!
 
-<table style="border: 3px solid black; border-collapse: collapse;">
+<<table style="border: 3px solid black; border-collapse: collapse;">
   <tr>
-    <td style="border: 3px solid black;"><img src="https://streak-stats.demolab.com/?user=JEFFDARKO&theme=dark&hide_border=true" width="400" height="220" alt=/></td>
-    <td style="border: 3px solid black;"><img src="https://github-readme-stats.vercel.app/api?username=JEFFDARKO&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" width="400" height="220" alt=/></td>
+    <td style="border: 3px solid black;">
+      <img src="https://streak-stats.demolab.com/?user=JEFFDARKO&theme=dark&hide_border=true&count_private=true" width="400" height="220" alt="Streak Stats" />
+    </td>
+    <td style="border: 3px solid black;">
+      <img src="https://github-readme-stats.vercel.app/api?username=JEFFDARKO&show_icons=true&theme=radical&count_private=true&hide_title=true&hide=prs" width="400" height="220" alt="GitHub Stats" />
+    </td>
   </tr>
-</table>
 </table>
 <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20Me%20a%20Coffee&emoji=&slug=vinitshahdeo" alt="coffee" width="1500" height="50" />
 

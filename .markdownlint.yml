@@ -38,5 +38,5 @@ MD048: # Code block style (consistent backticks)
 MD024: false # Allow multiple headings with the same content
 MD041: false # First line in a file being a top-level heading
 MD033: false # allow for in-line html
-
+MD001: false #allow different heading styles
 

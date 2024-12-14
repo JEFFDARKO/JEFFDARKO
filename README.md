@@ -31,7 +31,7 @@ Let’s embrace the weirdness together, shall we? 🤪
 ## TECH STACK
 
 From Python spells to Kubernetes chaos, I wield tools like a mad scientist on a caffein high - building, breaking, and bending tech at my will 🪄. Meet my pals ⤴️:
-<!-- Decided to add a few badges -->
+<!-- Decided to add a few badges to style up page-->
 <!-- Modified my .markdownlint.yaml config file so I can add in-line html to control the sizes of some of my stat and widgets-->
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt=python/>
